@@ -7,16 +7,20 @@ KEY FEATURES:
   2.Account management (view balance)
   3.Transaction processing (deposit/withdraw)
   4.Transaction history tracking
+  
 DATABASE STRUCTURE:
   1.Users table (stores account information)
   2.Transactions table (records all financial activities)
+  
 SECURITY:
   1.Password authentication
   2.SQL injection prevention
+  
 USER INTERFACE:
   1.Swing-based GUI with multiple panels
   2.CardLayout for smooth screen transitions
   3.Input validation and error handling
+  
 TECHNICAL HIGHLIGHTS:
   1.Single-file implementation
   2.Object-oriented design
